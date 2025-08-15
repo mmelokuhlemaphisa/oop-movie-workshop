@@ -43,23 +43,42 @@
 //     console.log(key);
 // }
 
-let marks = {
-  zama: 34,
-  fanale: 89,
-  gabe: 45,
-  safe: 67,
-  kane: 21,
-};
+// let marks = {
+//   zama: 34,
+//   fanale: 89,
+//   gabe: 45,
+//   safe: 67,
+//   kane: 21,
+// };
 
-for (key in marks) {
-//   console.log(marks[key]);
-}
+// for (key in marks) {
+// //   console.log(marks[key]);
+// }
 
 
-let i =0;
-while(i<6){
- console.log(i)
- i++;
-}
+// let i =0;
+// while(i<6){
+//  console.log(i)
+//  i++;
+// }
 
-let condition =true;
+// let condition = false;
+// do {
+//   console.log("do while is running");
+// //   i++;
+
+// //   if (i >= 5) {
+  
+// //   }
+//   condition = false; 
+// } while (condition);
+
+
+ let j = 10;
+do {
+  console.log("this do while");
+    j++;
+
+} while (j<6);
+
+
